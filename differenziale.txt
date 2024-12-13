@@ -1,0 +1,20 @@
+Il differenziale che abbiamo calcolato è la differenza tra il rapporto di disoccupazione tra adulti e giovani in Italia e in Europa. In pratica, abbiamo confrontato il tasso di disoccupazione tra giovani (15-24 anni) e adulti (25-64 anni) sia in Italia che in Europa, e abbiamo esaminato quanto le differenze tra queste due fasce di età siano simili tra i due contesti (Italia e Europa).
+
+Passo 1: Calcolo del Rapporto di Disoccupazione
+Per ogni anno, abbiamo calcolato il rapporto tra la disoccupazione degli adulti e dei giovani:
+
+Rapporto in Italia: il tasso di disoccupazione degli adulti italiani (25-64 anni) diviso per il tasso di disoccupazione dei giovani italiani (15-24 anni).
+Rapporto in Europa: il tasso di disoccupazione degli adulti europei (25-64 anni) diviso per il tasso di disoccupazione dei giovani europei (15-24 anni).
+Questo rapporto ci dà una misura di quanto la disoccupazione degli adulti sia maggiore (o minore) rispetto a quella dei giovani in ciascun contesto (Italia ed Europa).
+
+Passo 2: Calcolo del Differenziale
+Il differenziale è la differenza tra i due rapporti (Italia vs Europa) per ogni anno:
+
+Differenziale = (Disoccupazione Adulti Italia/Disoccupazione Giovani Italia) − (Disoccupazione Adulti Europa/Disoccupazione Giovani Europa)
+
+In altre parole, il differenziale mostra quanto il rapporto tra disoccupazione adulta e giovanile in Italia sia diverso rispetto al rapporto in Europa. Se il differenziale è positivo, significa che in quel determinato anno la differenza tra adulti e giovani disoccupati in Italia è maggiore rispetto all'Europa. Se il differenziale è negativo, significa che la differenza tra adulti e giovani disoccupati in Italia è inferiore rispetto all'Europa.
+
+Perché è Importante il Differenziale?
+Il differenziale aiuta a visualizzare quanto le differenze tra i tassi di disoccupazione per adulti e giovani siano simili o diverse tra Italia ed Europa. Se il differenziale è molto vicino a zero (come nel grafico), significa che le dinamiche di disoccupazione giovanile e adulta in Italia e in Europa sono molto simili. Se il differenziale fosse maggiore o minore, indicherebbe che in uno dei due contesti (Italia o Europa) la disoccupazione giovanile e adulta si comportano in modo più differenziato rispetto all'altro.
+
+In sintesi, il differenziale ci aiuta a capire quanto le tendenze di disoccupazione giovanile e adulta siano allineate tra i due contesti, rivelando se ci sono comportamenti simili o differenti tra l'Italia e l'Europa nel corso del tempo.
